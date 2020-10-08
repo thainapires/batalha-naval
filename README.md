@@ -1,11 +1,14 @@
 # ⛵ Batalha-Naval
 
+Desenvolvi este código bem no começo da minha faculdade com a linguagem c++, durante o período fase trainee de uma extensão estudantil. Por não ter tantos conhecimentos sobre desenvolvimento de jogos na época, o código foi feito em um só arquivo, sem documentação e com muitos ifs e elses, dificultando o entendimento. Porém, guardo este código para que eu consiga ter uma noção da minha evolução como programadora.
+
+# Sobre o jogo 
+
 Batalha naval é um jogo de tabuleiro de dois jogadores, no qual os jogadores têm de adivinhar em que quadrados estão os 
 navios do oponente. Embora o primeiro jogo em tabuleiro comercializado e publicado pela Milton Bradley Company em 1931,
 o jogo foi originalmente jogado com lápis e papel. Seu objectivo é derrubar os barcos do oponente adversário, ganha quem 
 derrubar todos os navios adversários primeiro. [(Disponível em wikipedia)](https://pt.wikipedia.org/wiki/Batalha_naval_(jogo)).
 
-Desenvolvi este código bem no começo da minha faculdade com a linguagem c++, durante o período fase trainee de uma extensão estudantil. Por não ter tantos conhecimentos sobre desenvolvimento de jogos na época, o código foi feito em um só arquivo, sem documentação e com muitos ifs e elses, dificultando o entendimento. Porém, guardo este código para que eu consiga ter uma noção da minha evolução como programadora.
 
 # Instruções:
 
